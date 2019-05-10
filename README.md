@@ -1,6 +1,6 @@
 # Service Portal Labs
 ## Introduction
-In this space, we are going to learn service portal step by step. 
+In thi11s space, we are going to learn service portal step by step. 
 + Step 1: [Simple Labs](Simple%20Labs)
   - [Lab 1 : Create a New Portal](Simple%20Labs/Lab1.md)
   - [Lab 2: Search Groups and Messages](Simple%20Labs/Lab2.md)
